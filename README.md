@@ -7,7 +7,7 @@ Es claro que la extensibilidad de R hace que se comporte como un sistema de info
 
 ## Sesion 1: conceptos basicos
 
-## Sesion 2: Visualización de Datos
+## Sesion 2: Visualización y manipulación de Datos
 
 ## Sesion 3: Analisis Espacial
 
