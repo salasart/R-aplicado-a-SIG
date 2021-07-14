@@ -4,3 +4,5 @@ R se ha convertido en la herramienta más importante para la estdística computa
 R incluye las técnicas de manipulación de datos, modelos estadísticos o tipo de gráficos que un analista puede necesitar. Técnicas como la regresón geográficamente ponderada hasta los modelos basados en álgebra de mapas o análisis espacial básico ya están presentes en R.
 
 Es claro que la extensibilidad de R hace que se comporte como un sistema de información geográfica. Las capacidades de R en el ámbito del tratamiento de información espacial van desde realizar geoprocesos básicos, manejo de proyecciones, conversión de formatos y creación de cartografía
+
+##Sesion 1: conceptos basicos
