@@ -5,19 +5,7 @@ R incluye las técnicas de manipulación de datos, modelos estadísticos o tipo 
 
 Es claro que la extensibilidad de R hace que se comporte como un sistema de información geográfica. Las capacidades de R en el ámbito del tratamiento de información espacial van desde realizar geoprocesos básicos, manejo de proyecciones, conversión de formatos y creación de cartografía
 
-## Sesion 1: conceptos basicos
 
-## Sesion 2: Visualización y manipulación de Datos
-
-## Sesion 3: Analisis Espacial
-
-## Sesión 4: Casos prácticos
-
-### práctica 1: Precipitación
-
-### práctica 2: NDVI
-
-### practica 3: Incedios Forestales
 
 
 1. Inicio del curso ```17 de enero de 2022```
